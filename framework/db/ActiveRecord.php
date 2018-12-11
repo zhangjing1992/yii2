@@ -16,6 +16,7 @@ use yii\helpers\StringHelper;
 
 /**
  * ActiveRecord is the base class for classes representing relational data in terms of objects.
+ * ActiveRecord 是表示对象的关系数据的类的基类。
  *
  * Active Record implements the [Active Record design pattern](http://en.wikipedia.org/wiki/Active_record).
  * The premise behind Active Record is that an individual [[ActiveRecord]] object is associated with a specific
